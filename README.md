@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=ff69b4&size=24&center=true&vCenter=true&width=500&lines=React+%7C+Laravel+%7C+PHP;Construindo+projetos+reais;Rumo+à+minha+primeira+vaga+💻">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=ff69b4&size=24&center=true&vCenter=true&width=500&lines=React+%7C+Laravel+%7C+PHP;Construindo+projetos+reais;Rumo+à+minha+primeira+vaga">
 </p>
 
 ---
