@@ -1,4 +1,4 @@
-# 👩‍💻 Sabrina Leite
+# Sabrina Leite
 
 <p align="center">
   🚀 Desenvolvedora em evolução  
@@ -10,7 +10,7 @@
 
 ---
 
-## 🎬 Meu ambiente
+## Meu ambiente
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
@@ -18,7 +18,7 @@
 
 ---
 
-## 📊 Meu ritmo de código
+## Meu ritmo de código
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=brinatech&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true"/>
@@ -26,7 +26,7 @@
 
 ---
 
-## 🔥 Consistência
+## Consistência
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=brinatech&theme=radical&hide_border=true"/>
@@ -34,7 +34,7 @@
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,laravel,php,js,postgres,mysql,html,css,git" />
@@ -42,7 +42,7 @@
 
 ---
 
-## 🚀 Projetos
+## Projetos
 
 ### IMC Calculator
 
@@ -67,7 +67,7 @@
 
 ---
 
-## 📫 Contato
+## Contato
 
 📧 [sabrinaleiteatm@email.com](mailto:sabrinaleiteatm@email.com)
 💼 www.linkedin.com/in/sabrina-leite-ferreira-48a376331
