@@ -37,7 +37,7 @@
 ## Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,laravel,php,js,postgres,mysql,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=react,laravel,php,js,postgres,sql,html,css,git" />
 </p>
 
 ---
